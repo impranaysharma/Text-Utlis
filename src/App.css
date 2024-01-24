@@ -1,0 +1,16 @@
+
+
+#form {position: releative;
+       left: 40%;
+       margin: 40px;
+  justify-content: center;
+  width: 60vw;
+}
+
+#exampleFormControlTextarea1{
+  border : grey 1px solid
+}
+
+#alert{
+  display: none;
+}
