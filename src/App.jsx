@@ -11,15 +11,8 @@ export default function App() {
     <main>
       <Navbar heading="Text Utlis"/>
       <alert/>
-     
-        <div>
-        
-            <div id='form'> <Form/></div>
-
-        
-        <About/>
-     
-        
+        <div>      
+            <div id='form'> <Form/></div>        
           </div>
         
     </main>

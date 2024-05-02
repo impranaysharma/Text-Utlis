@@ -42,20 +42,8 @@ export default function Navbar(props) {
             <li className="nav-item">
               <a className="nav-link active" aria-current="page" href="#" style={onlyc} >Home</a>
             </li>
-            <li className="nav-item">
-              <a className="nav-link" href="./about.jsx" style={onlyc}>About</a>
-            </li>
-            <li className="nav-item dropdown">
-              <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" style={onlyc}>
-                Dropdown
-              </a>
-              <ul className="dropdown-menu">
-                <li><a className="dropdown-item" href="#" style={onlyc}>Action</a></li>
-                <li><a className="dropdown-item" href="#" style={onlyc}>Another action</a></li>
-              
-                <li><a className="dropdown-item" href="#" style={onlyc}>Something else here</a></li>
-              </ul>
-            </li>
+            
+            
           </ul>
           <form className="d-flex" role="search">
             <div className="form-check form-switch">
